@@ -3,7 +3,7 @@
   {"name": "CBS News", "url": "https://cbsnews-lh.akamaihd.net/i/CBSN_1@199302/master.m3u8"},
   {"name": "NBC News NOW", "url": "https://nbcnewsnow.akamaized.net/hls/live/2021153/nbcnewsnow/playlist.m3u8"},
   {"name": "Bloomberg TV US", "url": "https://liveproduseast.global.ssl.fastly.net/btv/us.m3u8"},
-  {"name": "Cheddar News", "url": "https://cheddar-us.samsung.wurl.tv/playlist.m3u8"},
+  {"name": "Cheddar News", "url": "https://cheddar-news-live.akamaized.net/hls/live/2023173/cheddar-news/playlist.m3u8"},
   {"name": "Newsmax TV", "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8"},
   {"name": "PBS Kids", "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpbskids/CDN/1280x720_5000000/index.m3u8"},
   {"name": "Stadium Sports Network", "url": "https://stadiumliveintgr.cdn.turner.com/live/stadium/playlist.m3u8"},
